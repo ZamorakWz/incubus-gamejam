@@ -3,10 +3,12 @@ __*Game Jam* Project: Incubus__
 For BUG Spring Jam 2024, our team of 5 created a mid-poly horror game with an isometric camera in just 2 days. The team consisted of:
 
 Game Designer
-2 Game Developers (Programmers)
-Narrative Designer
-3D Artist
 
+2 Game Developers (Programmers)
+
+Narrative Designer
+
+3D Artist
 
 As one of the two developers, I was responsible for several key mechanics:
 
