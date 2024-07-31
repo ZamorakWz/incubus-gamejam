@@ -7,6 +7,7 @@ Game Designer
 Narrative Designer
 3D Artist
 
+
 As one of the two developers, I was responsible for several key mechanics:
 
 Camera System: Implemented an isometric perspective camera that follows the player.
